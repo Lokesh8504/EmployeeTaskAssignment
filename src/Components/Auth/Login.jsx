@@ -45,6 +45,7 @@ const Login = ({handleLogin}) => {  // to get the function from 'app.jsx'
                             <div className='w-40 text-lg flex justify-center border-1 border-emerald-500 mx-3 rounded mb-2 text-opacity-1'>rohit@ex.com</div>
                             <div className='w-40 text-lg flex justify-center border-1 border-emerald-500 mx-3 rounded mb-2 text-opacity-1'>harish@ex.com</div>
                             <div className='w-40 text-lg flex justify-center border-1 border-emerald-500 mx-3 rounded mb-2 text-opacity-1'>raghu@ex.com</div>
+                            <div className='w-40 text-lg flex justify-center border-1 border-emerald-500 mx-3 mt-3 bg-emerald-700 rounded mb-2 text-opacity-1'>admin@me.com</div>
                             <div className='w-40 text-lg flex justify-center border-1 border-emerald-500 mx-3 mt-3 bg-emerald-700 rounded mb-2 text-opacity-1'>Password- '123'</div>
                         </div>
                     )}
